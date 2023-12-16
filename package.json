@@ -1,0 +1,22 @@
+{
+  "name": "cypresspractice",
+  "version": "1.0.0",
+  "description": "My Node.js App for Cypress Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanozye/CypressPracticeFolder.git"
+  },
+  "author": "Hasan Ozyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanozye/CypressPracticeFolder/issues"
+  },
+  "homepage": "https://github.com/hasanozye/CypressPracticeFolder#readme",
+  "dependencies": {
+    "cypress": "^13.6.1"
+  }
+}
